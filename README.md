@@ -96,3 +96,15 @@ python main.py \
        --aug_traindata 17 \
        --M 18
 ```
+
+## Citation
+```
+@misc{jiang2021sequential,
+      title={Sequential Recommendation with Bidirectional Chronological Augmentation of Transformer}, 
+      author={Juyong Jiang and Yingtao Luo and Jae Boum Kim and Kai Zhang and Sunghun Kim},
+      year={2021},
+      eprint={2112.06460},
+      archivePrefix={arXiv},
+      primaryClass={cs.IR}
+}
+```
