@@ -1,5 +1,5 @@
 # BiCAT
-This is our TensorFlow implementation for the paper: "**BiCAT: Sequential Recommendation with Bidirectional Chronological Augmentation of Transformer**".
+This is our TensorFlow implementation for the paper: "**[BiCAT: Sequential Recommendation with Bidirectional Chronological Augmentation of Transformer](https://arxiv.org/abs/2112.06460)**".
 Our code is implemented based on Tensorflow version of [SASRec](https://github.com/kang205/SASRec) and [ASReP](https://github.com/DyGRec/ASReP).
 
 ## Environment
